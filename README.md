@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest
 MMDetection (Faster RCNN):
 
 
-MMDetection (Cascade RCNN)
+MMDetection (Cascade RCNN):
 
 https://www.kaggle.com/code/dimka11/crcnn-human-silhouettes-in-fores/notebook
 
