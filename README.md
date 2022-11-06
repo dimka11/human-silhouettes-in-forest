@@ -6,7 +6,14 @@ https://docs.google.com/presentation/d/1k90M9e_vszdFxKAVzXsMGpAZuKrkTLHzjV65sH6Y
 
 Блокнот и модель, с помощью которой получен лучший результа на лидербоарде:
 
-Yolov5
+
+Веса моделей:
+
+https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest-weights
+
+Файл с лучшими весами: best_m_1920_90ep.pt
+
+
 
 Другие блокноты:
 
