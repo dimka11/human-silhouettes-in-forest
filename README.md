@@ -24,9 +24,9 @@ https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest
 
 Другие блокноты:
 
-
 MMDetection (Faster RCNN):
 
+https://www.kaggle.com/code/dimkoss11/fork-of-mmdet-human-silhouettes-in-forest/notebook
 
 MMDetection (Cascade RCNN):
 
