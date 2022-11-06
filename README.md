@@ -6,11 +6,15 @@ https://docs.google.com/presentation/d/1k90M9e_vszdFxKAVzXsMGpAZuKrkTLHzjV65sH6Y
 
 Блокнот и модель, с помощью которой получен лучший результа на лидербоарде:
 
-
+Yolov5
 
 Другие блокноты:
 
 
-MMDetection ()
+MMDetection (Faster RCNN):
+
+
+MMDetection (Cascade RCNN)
+
 https://www.kaggle.com/code/dimka11/crcnn-human-silhouettes-in-fores/notebook
 
