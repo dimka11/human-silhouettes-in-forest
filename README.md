@@ -4,6 +4,11 @@
 
 https://docs.google.com/presentation/d/1k90M9e_vszdFxKAVzXsMGpAZuKrkTLHzjV65sH6YUCI/edit?usp=sharing
 
+
+Датасет:
+
+https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest-images
+
 Блокнот и модель, с помощью которой получен лучший результа на лидербоарде:
 
 
