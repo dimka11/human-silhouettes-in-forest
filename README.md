@@ -9,7 +9,9 @@ https://docs.google.com/presentation/d/1k90M9e_vszdFxKAVzXsMGpAZuKrkTLHzjV65sH6Y
 
 https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest-images
 
-Блокнот и модель, с помощью которой получен лучший результа на лидербоарде:
+Блокнот с помощью которой получен лучший результа на лидербоарде:
+
+https://www.kaggle.com/code/dimka11/detection-of-human-silhouettes-in-forest?scriptVersionId=110014284
 
 
 Веса моделей:
