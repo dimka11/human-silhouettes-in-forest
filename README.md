@@ -9,9 +9,13 @@ https://docs.google.com/presentation/d/1k90M9e_vszdFxKAVzXsMGpAZuKrkTLHzjV65sH6Y
 
 https://www.kaggle.com/datasets/dimka11/detection-of-human-silhouettes-in-forest-images
 
-Блокнот с помощью которой получен лучший результат на лидербоарде:
+Блокнот с помощью которой получен результат 0.49 на лидербоарде :
 
 https://www.kaggle.com/code/dimka11/detection-of-human-silhouettes-in-forest?scriptVersionId=110014284
+
+Инференс модели из этого блокнота, во второй части, где yolo модель из блокнота выше + WBF:
+
+https://www.kaggle.com/code/dimka11/inference-mmdet-yolo-human-silhouettes-in-forest/notebook
 
 
 Веса моделей:
